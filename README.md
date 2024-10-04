@@ -1,4 +1,5 @@
 # stopMotionAI
 An GenAI for creating Stop Motion Film
 
-hey sexies
+- generate Slowmo
+- generate movie
